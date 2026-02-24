@@ -27,12 +27,10 @@ The architecture follows modern DevOps and Observability best practices used in 
 
 # 🏗 Architecture Diagram
 
-<p align="center">
-  <img src="Screenshots
-/Screenshot%202026-02-23%20112402.png" width="85%" />
-</p>
+![Architecture Diagram](screenshots/Screenshot%202026-02-23%20112318.png)
 
-> ⚠️ Make sure to upload your architecture image inside a folder called `docs/` and name it `architecture.png`.
+![Architecture Diagram](screenshots/Screenshot%202026-02-23%20112402.png)
+
 
 ---
 
