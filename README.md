@@ -27,9 +27,9 @@ The architecture follows modern DevOps and Observability best practices used in 
 
 # 🏗 Architecture Diagram
 
-![Architecture Diagram](screenshots/Screenshot%202026-02-23%20112318.png)
+![Architecture Diagram](Screenshots/Screenshot%202026-02-23%20112318.png)
 
-![Architecture Diagram](screenshots/Screenshot%202026-02-23%20112402.png)
+![Architecture Diagram](Screenshots/Screenshot%202026-02-23%20112402.png)
 
 
 ---
